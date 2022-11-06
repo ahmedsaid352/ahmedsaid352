@@ -1,3 +1,10 @@
+<html>
+<style>
+#stats {
+    margin:20px auto;
+}
+</style>
+<body>
 <h1 align="center">Hi 👋, I'm Ahmed Said Fouad</h1>
 <h2 align="center">Advanced Data Analyst from Egypt</h2>
 
@@ -34,8 +41,11 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsaid352&show_icons=true&locale=en&layout=compact" alt="ahmedsaid352" /></p>
+<p><img class='stats' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsaid352&show_icons=true&locale=en&layout=compact" alt="ahmedsaid352" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsaid352&show_icons=true&locale=en" alt="ahmedsaid352" /></p>
+<p>&nbsp;<img class='stats' align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsaid352&show_icons=true&locale=en" alt="ahmedsaid352" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsaid352&" alt="ahmedsaid352" /></p>
+<p><img class='stats' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsaid352&" alt="ahmedsaid352" /></p>
+
+</body>
+</html>
