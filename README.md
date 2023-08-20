@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Said Fouad</h1>
-<h2 align="center">Advanced Data Analyst from Egypt</h2>
+<h2 align="center">Data Analyst / Data scientist from Egypt</h2>
 
 - 🔭 I’m currently working on [blitzml](https://github.com/AhmedMohamed25/blitzml)
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **python, JS, SQL, pandas, numpy, and seaborn**
 
-- 📫 How to reach me **aookalalover@gmail.com**
+- 📫 How to reach me **ahmedsaid2000321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,10 +34,3 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsaid352&show_icons=true&locale=en" alt="ahmedsaid352" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsaid352&" alt="ahmedsaid352" /></p>
-
-<p><img style='margin-bottom: 20px;' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsaid352&show_icons=true&locale=en&layout=compact" alt="ahmedsaid352" /></p>
