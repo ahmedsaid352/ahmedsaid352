@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **python, JS, SQL, pandas, numpy, and seaborn**
 
-- 📫 How to reach me **ahmedsaid2000321@gmail.com**
+- 📫 How to reach me **ahmedsaid2000321@gmail.com** , [Portfolio](https://ahmedsaid352.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
