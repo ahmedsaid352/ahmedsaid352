@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Said Fouad</h1>
-<h2 align="center">Data Analyst / Data scientist from Egypt</h2>
+<h2 align="center">Software Engineer from Egypt</h2>
 
-- 🔭 I’m currently working on [blitzml](https://github.com/AhmedMohamed25/blitzml)
+- 🔭 I’m currently working on [GizaSystems](https://www.gizasystems.com/)
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Back-end development**
 
-- 💬 Ask me about **python, JS, SQL, pandas, numpy, and seaborn**
+- 💬 Ask me about **python, JS, SQL, C#, ASP.NET, pandas, numpy, and seaborn**
 
 - 📫 How to reach me **ahmedsaid2000321@gmail.com** , [Portfolio](https://ahmedsaid352.github.io/)
 
